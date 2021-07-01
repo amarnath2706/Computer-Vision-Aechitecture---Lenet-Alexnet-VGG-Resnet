@@ -1,1 +1,1 @@
-# Computer-Vision-Aechitecture---Lenet-Alexnet-VGG-Resnet
+# Computer-Vision---Lenet-Alexnet-VGG-Resnet
